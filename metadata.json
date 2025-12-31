@@ -1,0 +1,5 @@
+{
+  "name": "Anurag University Results Portal",
+  "description": "A comprehensive exam results portal for students to check their CGPA and semester-wise grades, featuring a detailed mock database for multiple batches and sections.",
+  "requestFramePermissions": []
+}
